@@ -26,10 +26,6 @@
 ### 🌱 I’m currently learning:
 - **Django**, **Backend Development**, **Algorithms**
 
-### 👯 I’m looking to collaborate on:
-- [**Recycle Connect**](https://github.com/salma-momo79/Integrate-project)  
-  *(Join me in making the recycling process more efficient and user-friendly)*
-
 ### 💬 Ask me about:
 - **Backend Development**, **Django**, **Competitive Programming**, **Problem Solving**, **Books**
 
