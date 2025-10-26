@@ -5,17 +5,6 @@
   I’m passionate about building software and diving deep into backend development. Currently, I'm working on projects using Django and expanding my skills in problem-solving through competitive programming.
 </p>
 
----
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=salma-momo79&label=Profile%20views&color=0e75b6&style=flat" alt="salma-momo79" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salma-momo79" alt="salma-momo79" />
-  </a>
-</p>
 
 ---
 
